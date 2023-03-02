@@ -1,2 +1,0 @@
-# Intramu
-## Hi Welcome!
