@@ -3,6 +3,8 @@
 
 We are working to create a new intramural sports application that replaces IM Leagues. 
 
+Check us out -> [intramu.com](https://intramu.com/)
+
 <!--
 
 **Here are some ideas to get you started:**
