@@ -1,5 +1,7 @@
-# Intramu
-## Hi there 👋
+
+# Welcome to Intramu
+
+We are working to create a new intramural sports application that replaces IM Leagues. 
 
 <!--
 
